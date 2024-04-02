@@ -5,5 +5,3 @@ function netSalary(Earning) {
   //The netsalary is calculated by subtracting the amount of tax to be paid from their earning
   netSalary = Earning - tax;
 }
-// It outputs the netsalary
-return netSalary;
