@@ -1,9 +1,9 @@
-// The function calculates an individuals Net salary
-function netSalary(Earning) {
-  //The amount of tax to be paid is 10% if their Earning
+// The function calculates an individual's Net salary
+function net salary(Earning) {
+  //The amount of tax to be paid is 10% of their Earning
   const tax = Earning * 0.1;
-  //The netsalary is calculated by subtracting the amount of tax to be paid fro their earning
+  //The net salary is calculated by subtracting the amount of tax to be paid fro their earning
   netSalary = Earning - tax;
 }
-// It outouts the netsalary
-return netSalary;
+// It outputs the net salary
+return net salary;
