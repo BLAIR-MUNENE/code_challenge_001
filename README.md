@@ -1,7 +1,38 @@
-# **WEEK 1 CODE CHALENGE**
-## *student grade generator*
-The program prompts one to input a students marks then outputs the correct grade for the mark.
-## *speed detector*
-The program use a car's speed as input and if the car's speed is higher than 70 km/h it outputs demerit points.
+# WK1-Code-Challenge
 
-NB: One demrit point = 5km/h above 70km/h
+##### Date ,2024/04/01
+
+#### By **Blair Munene**
+
+## Description
+
+These are java script functions that are able to perform diffrent opperations.
+
+## Installation
+
+Use git clone to enable downloading of the document in the GitHub.
+
+## Installation Requirments
+
+Git
+
+#### Installation Instruction
+
+Git clone git@github.com:BLAIR-MUNENE/WK1-Code-Challenge.git
+
+# Live Link
+
+[Git](https://github.com/BLAIR-MUNENE/WK1-Code-Challenge)
+
+## Technologies used
+
+Javascript
+
+## Support and contact details
+
+github.com/BLAIR-MUNENE
+
+### License
+
+The content of this site is licensed under the MIT license
+Copyright (c) 2018.
