@@ -13,4 +13,5 @@ function Grade(mark) {
     return "E"; // If the mark is less than 40, return 'E'
   }
 }
+// The student's grade is output based on the mark 
 return Grade; 
